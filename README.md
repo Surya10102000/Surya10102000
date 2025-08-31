@@ -1,5 +1,9 @@
 # 💫 About Me:
-    🚀 Surya | Software Engineer<br><br>    • 💻 Passionate about Full-Stack Development & Open Source<br>    • 🧠 Currently exploring: Next.js 14, DevOps, and AI/ML<br>    • 📊 Building @surya10102000/portfolium<br>    • 📫 Let's connect: https://www.linkedin.com/in/surya-prakash-mallah/
+    🚀 Surya | Software Engineer<br><br>    
+    • 💻 Passionate about Full-Stack Development & Open Source<br>    
+    • 🧠 Currently exploring: Next.js 14, DevOps, and AI/ML<br>    
+    • 📊 Building @surya10102000/portfolium<br>    
+    • 📫 Let's connect: https://www.linkedin.com/in/surya-prakash-mallah/
 
 
 ## 🌐 Socials:
