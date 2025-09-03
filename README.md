@@ -1,7 +1,31 @@
+<div id="header" align="center">
+<!--   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+   -->
+  <div id="badges">
+<!--   <a href="https://www.linkedin.com/in/surya-prakash-mallah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="30" width="40" /></a>&nbsp;&nbsp;
+ -->
+  </div>
+  <br>
+<!--   Profile Count -->
+<!--   <img src="https://komarev.com/ghpvc/?username=surya-prakash-mallah-1&style=flat-square&color=blue" alt="profile-count"/>
+   -->
+  <h1>
+  <b>
+  Hello,
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Surya :smiley:</b>
+  </h1>
+  
+  <div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
+  </div>
+
+</div>
+
+
 # 💫 About Me:
 
 
-🚀 Surya | Software Engineer
+**🚀 Surya | Web Developer**<br/>
 • 💻 Passionate about Full-Stack Development & Open Source <br/>
 • 🧠 Currently exploring: Next.js 14, DevOps, and AI/ML  <br/>
 • 📊 Building @surya10102000/portfolium  <br/>
